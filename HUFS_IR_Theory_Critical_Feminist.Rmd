@@ -1,0 +1,47 @@
+---
+title: "0. Syllabus Day"
+subtitle: "POLI315 International Relations"
+author: "Sanghoon Park"
+date: "University of South Carolina"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["uofscstyle.css", "uofscfont.css"]
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
+      self-contained: true
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+xaringanExtra::use_panelset()
+```
+
+
+---
+class: center, middle
+background-image: "BS 04 _국영문 혼용 로고타입_Navy.ai"
+background-size: 300px
+background-position: 11% 15%
+
+# Thanks!
+
+## Please do not hesitate to ask questions.
+
+Contacts for Instructor and Teaching Assistant
+
+|                   Contact                                                                          |     Sanghoon Park                                    |   Spencer Baily                            |
+| :-----------------------------------------------: | :--------------------------------------------------: | :----------------------------------------: |
+| `r icons::fontawesome("paper-plane")`           | [sp23@email.sc.edu](sp23@email.sc.edu)               |  [BAILY@email.sc.edu](BAILY@email.sc.edu)  |
+| `r icons::fontawesome("id-card")`                 | [sanghoon-park.com/](https://www.sanghoon-park.com/) |                                            |
+| `r icons::fontawesome("building")`                | #305 Gambrell                                        | #303 Gambrell                              |
+
+```{r, echo = F, eval = F, message = F, warning=F, results='hide'}
+xaringanBuilder::build_pdf("POLI315-W1-1.html",
+                           complex_slides = F, 
+                           partial_slides = F)
+```
+
