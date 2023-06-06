@@ -1,7 +1,7 @@
 {
     "id": "C45CE13D",
-    "path": "C:/Users/phere/Dropbox/Scholar/2_Graduates/2023-02-Summer/PER_IR_theory_June07/HUFS_IR_Theory_Critical_Feminist.Rmd",
-    "project_path": "HUFS_IR_Theory_Critical_Feminist.Rmd",
+    "path": "C:/Users/phere/Dropbox/Scholar/2_Graduates/2023-02-Summer/PER_IR_theory_June07/index.Rmd",
+    "project_path": "index.Rmd",
     "type": "r_markdown",
     "hash": "0",
     "contents": "",
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "19,29",
-        "scrollLine": "12"
+        "cursorPosition": "27,28",
+        "scrollLine": "19"
     },
     "folds": "",
-    "lastKnownWriteTime": 1686038532,
+    "lastKnownWriteTime": 1686039175,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1686038532870,
+    "last_content_update": 1686039175654,
     "read_only": false,
     "read_only_alternatives": []
 }

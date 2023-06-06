@@ -127,7 +127,7 @@ th, td { padding: 5px; }
 
 /* Add image and change bg color */
 .title-slide {
-  background-image: "BS 04 _국영문 혼용 로고타입_Navy.ai";
+  background-image: url("https://github.com/pherephobia/PER_IR_theory_June07/blob/main/BS%2004%20_%EA%B5%AD%EC%98%81%EB%AC%B8%20%ED%98%BC%EC%9A%A9%20%EB%A1%9C%EA%B3%A0%ED%83%80%EC%9E%85_Navy.ai");
   background-position: 9% 15%;
   background-size: 300px;
   background-color: #fff;
